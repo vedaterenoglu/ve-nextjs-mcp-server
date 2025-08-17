@@ -1,0 +1,3 @@
+export default function HomePage() {
+  return <div>TEST HOME PAGE WORKS</div>
+}
